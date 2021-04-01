@@ -1,0 +1,11 @@
+#menu{
+    flex-direction: row;
+}
+.myself{
+    text-align: center;
+    background-color: brown;
+    height: 100%;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
