@@ -3,9 +3,29 @@
 }
 .myself{
     text-align: center;
-    background-color: brown;
-    height: 100%;
-    color: white;
+    background-image: url(/zypIzf0STh.jpg);
+    background-color:rgba(0, 0, 0, 0.5);
     padding-top: 10px;
-    padding-bottom: 10px;
+    padding-bottom: 60px;
+    height: 200px;
+    background-color: rgba(0, 0, 0, 0.2);
+    
+}
+.portfo{
+    text-align: center;
+    background-color: rosybrown;
+    padding: 10px 0px 10px 0px;
+}
+.sample_work{
+    align-items: center;
+    text-align: center;
+}
+.about{
+    text-align: center;
+}
+.contact{
+    text-align: center;
+}
+.behance{
+    box-shadow: salmon;
 }
